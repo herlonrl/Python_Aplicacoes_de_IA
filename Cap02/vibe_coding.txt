@@ -1,0 +1,80 @@
+
+# Testando o Vibe Coding
+
+
+Prompt 1: Super Básico
+
+Crie um script em Python para construir um modelo de Deep Learning para previsão de séries temporais de vendas.
+
+
+Prompt 2: Intermediário
+
+Crie um código em Python utilizando a biblioteca TensorFlow para criar um modelo de previsão de séries temporais multivariadas. O objetivo é prever as vendas do próximo mês.
+
+Instruções:
+
+1. Dados: Suponha que temos um DataFrame do Pandas com as seguintes colunas: 'data', 'vendas', 'investimento_marketing', 'feriado' (booleano). Gere um DataFrame de exemplo para a demonstração.
+
+2. Pré-processamento:
+
+- Normalize os dados numéricos (vendas, investimento_marketing) usando `MinMaxScaler`.
+- Crie janelas deslizantes (sequências) de dados para servirem como entrada (X) e o valor a ser previsto como saída (y). Por exemplo, usar os últimos 30 dias para prever o próximo.
+- Divida os dados em conjuntos de treino (70%) e validação (30%).
+
+3. Arquitetura do Modelo:
+
+- Construa uma rede neural recorrente (RNN) com duas camadas GRU (Gated Recurrent Unit) empilhadas, cada uma com 64 unidades.
+- Adicione uma camada de Dropout com taxa de 0.2 entre as camadas GRU para evitar overfitting.
+- Finalize com uma camada Densa (Linear) para produzir a previsão final.
+
+4. Treinamento e Avaliação:
+
+- Utilize o otimizador Adam e a função de perda MSE (Mean Squared Error).
+- Treine o modelo por 100 épocas.
+- Ao final, avalie o desempenho do modelo no conjunto de validação usando a métrica RMSE (Root Mean Squared Error).
+- Inclua um código para visualizar graficamente as previsões do modelo em comparação com os valores reais do conjunto de validação.
+
+
+Prompt 3: Avançado
+
+Crie um pipeline de Deep Learning completo e bem documentado em Python para previsão de séries temporais de múltiplos passos (multi-step forecasting). O objetivo é prever as vendas para os próximos 7 dias,
+
+Instruções:
+
+1. Frameworks: Use TensorFlow e Keras.
+
+2. Engenharia de Features:
+
+- Dado um conjunto de dados com colunas 'timestamp' e 'vendas', crie features temporais adicionais: hora do dia, dia da semana, dia do mês, semana do ano e mês.
+- Inclua também features de lag (valores passados da própria série) e médias móveis como variáveis exógenas.
+- Suponha a existência de outras variáveis exógenas como 'temperatura' e 'velocidade_vento'.
+- Gere um DataFrame de exemplo robusto para a demonstração.
+
+3. Pré-processamento de Dados:
+
+- Use o `StandardScaler` para normalizar todas as features.
+- Implemente uma função para criar sequências de entrada (encoder inputs) e sequências de saída (decoder inputs/outputs) para um modelo sequence-to-sequence. A entrada deve conter os últimos 14 dias de dados horários e a saída, os próximos 7 dias.
+- Utilize `TimeSeriesSplit` da biblioteca scikit-learn para uma validação cruzada mais apropriada para séries temporais.
+
+4. Arquitetura do Modelo (Sequence-to-Sequence com Mecanismo de Atenção):
+
+- Encoder: Implemente um encoder usando uma camada Bidirecional LSTM. Ele deve processar a sequência de entrada e retornar seus estados ocultos.
+- Mecanismo de Atenção: Implemente uma camada de atenção que utilize os estados ocultos do encoder para ponderar a importância de cada passo de tempo da entrada ao gerar a saída.
+- Decoder: Implemente um decoder com uma camada LSTM que recebe os estados do encoder como estado inicial e o vetor de contexto da camada de atenção a cada passo de tempo para gerar a previsão.
+- Saída: A camada final deve ser Densa (TimeDistributed) para produzir a previsão para cada um dos próximos 7 dias.
+
+5. Treinamento Avançado:
+
+- Implemente um callback de `EarlyStopping` para monitorar a perda no conjunto de validação (`val_loss`) e parar o treinamento se não houver melhora, evitando overfitting.
+- Utilize um callback de `LearningRateScheduler` para ajustar a taxa de aprendizado dinamicamente durante o treinamento.
+- Use a função de perda MAE (Mean Absolute Error) e o otimizador Adam.
+
+6. Avaliação e Saída:
+
+- Avalie o modelo final no conjunto de teste usando múltiplas métricas: MAE, RMSE e MAPE (Mean Absolute Percentage Error).
+- Gere um gráfico que mostre as previsões de múltiplos passos (7 dias) em comparação com os valores reais para alguns exemplos do conjunto de teste.
+- O código deve ser modular, organizado em funções claras (ex: `create_features`, `build_model`, `train_pipeline`), e incluir docstrings e type hints para garantir a qualidade e a reprodutibilidade.
+
+
+
+
