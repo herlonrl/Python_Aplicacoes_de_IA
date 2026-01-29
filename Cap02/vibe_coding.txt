@@ -75,6 +75,3 @@ Instruções:
 - Gere um gráfico que mostre as previsões de múltiplos passos (7 dias) em comparação com os valores reais para alguns exemplos do conjunto de teste.
 - O código deve ser modular, organizado em funções claras (ex: `create_features`, `build_model`, `train_pipeline`), e incluir docstrings e type hints para garantir a qualidade e a reprodutibilidade.
 
-
-
-
