@@ -1,0 +1,244 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "61d979b2-a85f-4d69-901e-b3bb69419a3e",
+   "metadata": {},
+   "source": [
+    "<!-- Trabalho Desenvolvido na Data Science Academy - www.datascienceacademy.com.br -->\n",
+    "# <font color='blue'>Data Science Academy</font>\n",
+    "# <font color='blue'>Fundamentos de Linguagem Python - Do Básico a Aplicações de IA</font>\n",
+    "# <font color='blue'>Lista 2 de Exercícios</font>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3670be14-c985-465c-a68c-34b0e822b07a",
+   "metadata": {},
+   "source": [
+    "#### Exercício 1\n",
+    "\n",
+    "Escreva uma função que receba os valores de três lados de um triângulo e o classifique como \"Equilátero\" (todos os lados iguais), \"Isósceles\" (dois lados iguais) ou \"Escaleno\" (todos os lados diferentes)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e05f9264-9103-4c43-9bbf-20334ead2de3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c740abbd-3a0e-4f9f-9a26-a3e382b078f5",
+   "metadata": {},
+   "source": [
+    "#### Exercício 2\n",
+    "\n",
+    "Escreva uma função que recebe um número inteiro e exibe a tabuada de multiplicação desse número, do 1 ao 10."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "431acb5d-fcd1-4ce4-9eee-6117b4066383",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3375fbd5-8283-4602-9462-c0c7722e3258",
+   "metadata": {},
+   "source": [
+    "#### Exercício 3 \n",
+    "\n",
+    "Você recebeu um dicionário com os nomes dos alunos e suas respectivas notas. Escreva uma função que calcula a média da turma e retorna uma lista com os nomes dos alunos que tiveram nota acima da média."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "de7f16bd-c754-456b-a726-28616af68aaa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7a6f120d-ef3d-4431-a9a1-1f8a99bae626",
+   "metadata": {},
+   "source": [
+    "#### Exercício 4\n",
+    "\n",
+    "Dada uma lista de números, crie uma nova lista usando list comprehension que contenha o quadrado de cada número par da lista original."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d40d066e-42b3-4659-a098-4bb73a3448a2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a3182326-e5c7-4b8b-aeae-f30bbc3532b2",
+   "metadata": {},
+   "source": [
+    "#### Exercício 5\n",
+    "\n",
+    "Crie uma função chamada dsa_calcula_imc que aceite dois argumentos: peso (em kg) e altura (em metros). A função deve calcular o Índice de Massa Corporal (IMC) usando a fórmula IMC=peso/altura^2 e retornar o valor do IMC."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "40007f31-7641-4d98-9521-c23f0741c37f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b87006e7-5436-4dc0-acfc-fe6e83330191",
+   "metadata": {},
+   "source": [
+    "#### Exercício 6\n",
+    "\n",
+    "Você tem uma lista de dicionários, onde cada dicionário representa uma pessoa com nome e idade. Use a função sorted() com uma expressão lambda como chave (key) para ordenar a lista de pessoas da mais nova para a mais velha."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1f0c0503-1346-47f1-8cb9-ddbcd87641ea",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "268f4ea6-5329-457b-8b1f-8b3fc7956603",
+   "metadata": {},
+   "source": [
+    "#### Exercício 7\n",
+    "\n",
+    "Crie uma função que receba uma lista de números inteiros e retorne um dicionário contendo a contagem de quantos números são pares e quantos são ímpares."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7366a477-10f5-46ec-ba8c-b0ab6067fed0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc454f20-7ee6-4402-8319-5e4876e2d309",
+   "metadata": {},
+   "source": [
+    "#### Exercício 8\n",
+    "\n",
+    "Crie uma função que receba uma lista de strings (potenciais e-mails) e um parâmetro opcional dominio_desejado (com valor padrão \"gmail.com\"). A função deve retornar uma nova lista, usando list comprehension, contendo apenas os e-mails que terminam com o domínio desejado."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "11bdc9e8-75be-4448-932d-d876207fd1e4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "40f12391-14a5-4b6d-bcb7-419a373eb0e1",
+   "metadata": {},
+   "source": [
+    "#### Exercício 9\n",
+    "\n",
+    "Dada uma lista de frases, use a função map() em conjunto com uma expressão lambda para criar uma nova lista onde cada frase é convertida para letras maiúsculas e tem a palavra \"PYTHON\" anexada ao final."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "98f84688-9bfe-4de8-9f2b-97bf184dbd18",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9f07a658-4f72-4e97-a4e1-7c9f973ebca6",
+   "metadata": {},
+   "source": [
+    "#### Exercício 10\n",
+    "\n",
+    "Crie um jogo onde o computador escolhe um número secreto entre 1 e 20. O jogador tem 5 tentativas para adivinhar. A cada tentativa, o programa informa se o palpite foi muito alto ou muito baixo. Se o jogador acertar, o loop deve ser interrompido com uma mensagem de vitória."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "aba19b38-a544-4a8d-a162-52a5efe04c9a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Solução\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "800eb189-a900-4307-a31c-910e5bb1e6c9",
+   "metadata": {},
+   "source": [
+    "# Fim"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
