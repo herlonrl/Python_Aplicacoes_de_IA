@@ -1,0 +1,501 @@
+review_id,texto_review,sentimento
+1,Estou muito feliz com a compra. O cadeira gamer é incrível e chegou no prazo.,positivo
+2,,negativo
+3,Não recomendo. A entrega foi lenta e o celular não é como na foto.,negativo
+4,O monitor é decepcionante. O suporte ao cliente foi horrível.,positivo
+5,É UM LIVRO OK PELO PRÇEO QUE PAGUEI.,negativo
+6,Não rceomendo. A entrega atrasou muito e o monitor não é como na foto.,positivo
+7,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+8,Recebi o fone de ouvido hoje. Vou começar a usar para ver se é bom.,positivo
+9,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+10,Ótimo custo-benefício. O celular é excelente e muito útil.,positivo
+11,Ótimo custo-benefício. O livro é fantástica e muito útil.,positivo
+12,Ótimo custo-benefício. O teclado é muito boa e muito útil.,positivo
+13,Odiei o fone de ouvido. Qualidade decepcionante e veio com defeito.,negativo
+14,RECEBI O CADEIRA GAMER HOJE. VOU COMEÇAR A USAR PARA VER SE É BOM.,negativo
+15,Odiei o notebook. Qualidade péssima e veio com defeito.,negativo
+16,Ótimo custo-benefício. O fone de ouvido é incrível e muito útil.,positivo
+17,Péssima experiência. O mouse quebrou no primeiro dia de uso. Decepcionado.,negativo
+18,,positivo
+19,Simplesmente perfeito! O notebook funciona muito bem e o design é lindo.,positivo
+20,É um mouse ok pelo preço que paguei.,positivo
+21,Ótimo custo-benefício. O livro é muito boa e muito útil.,positivo
+22,Não recomendo. A entrega foi lenta e o notebook não é como na foto.,negativo
+23,Amei o celular! A qualidade é incrível e a netrega foi no prazo.,negativo
+24,"A embalagem do livro chegou um pouco amassada, mas o produto está intacto.",negativo
+25,Ótimo custo-benefício. O mouse é fantástica e muito útil.,positivo
+26,"A cor do fone de ouivdo é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+27,"Excelente mouse, superou minhas expectativas. Recomendo a todos!",positivo
+28,O mouse é exatamente como descrito no anúncio. Faz o que promete.,negativo
+29,Péssima experiência. O fone de ouvido quebrou no primeiro dia de uso. eDcepcionado.,negativo
+30,ODIEI O CADEIRA GAMER. QUALIDADE DECEPCIONANTE E VEIO COM DEFEITO.,negativo
+31,,negativo
+32,É um livro ok pelo preço que paguei.,positivo
+33,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+34,Estou muito impressionado com a compra. O mouse é incrível e chegou eficiente.,positivo
+35,Simplesmente perfeito! O celular funciona muiot bem e o design é lindo.,positivo
+36,Odiei o monitor. Qualidade horrível e veio com defeito.,negativo
+37,,negativo
+38,Estou muito satisfeito com a compra. O teclado é incrível e chegou super rápida.,positivo
+39,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+40,"Excelente teclado, superou minhas expectativas. Recomendo a todos!",positivo
+41,"A cor do livro é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+42,Simplesmente perfeito! O cadeira gamer funcoina muito bem e o design é lindo.,positivo
+43,O fone de ouvido é péssima. O suporte ao cliente foi horrível.,negativo
+44,Odiei o cadeira gamer. Qualidade de baixa qualidade e veio com defeito.,negativo
+45,Não recomendo. A entrega atrasou muito e o mouse não é como na foto.,negativo
+46,Recebi o mouse hoje. Vou começar a usar para ver se é bom.,positivo
+47,Simplesmente perfeito! O fone de ouvido funciona muito bem e o design é lindo.,positivo
+48,Estou muito satisfeito com a compra. O mouse é incrível e chegou pontual.,positivo
+49,Não recomendo. A entrega atrasou muito e o livro não é como na foto.,negativo
+50,Recebi o celular hoje. Vou começar a usar para ver se é bom.,positivo
+51,O cadeira gamer é péssima. O suporte ao cliente foi horrível.,negativo
+52,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+53,Ótimo custo-benefício. O teclado é fantástica e muito útil.,positivo
+54,RECEBI O CELULAR HOJE. VOU COMEÇAR A USAR PARA VER SE É BOM.,positivo
+55,Estou muito decepcionado com esta compra. Dinheiro jogado fora.,negativo
+56,AMEI O CADEIRA GAMER! A QUALIDADE É ÓTIMA E A ENTREGA FOI PONTUAL.,positivo
+57,Recebi o mouse hoje. Vou começar a usar para ver se é bom.,negativo
+58,"A cor do monitor é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+59,O celular é horrível. O suporte ao cliente foi horrível.,negativo
+60,Ótimo custo-benefício. O notebook é muito boa e muito útil.,positivo
+61,Simplesmente perfeito! O celular funciona muito bem e o design é lindo.,positivo
+62,Estou muito feliz com a compra. O cadeira gamer é incrível e chegou eficiente.,positivo
+63,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+64,Amei o livro! A qualidade é ótima e a entrega foi eficiente.,positivo
+65,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+66,"Excelente cadeira gamer, superou minhas expectativas. Recomendo a todos!",positivo
+67,Amei o notebook! A qualidade é muito boa e a entrega foi no prazo.,positivo
+68,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+69,Ótimo custo-benefício. O cadeira gamer é incrível e muito útil.,positivo
+70,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,positivo
+71,Não recomendo. A entrega foi lenta e o cadeira gamer não é como na foto.,negativo
+72,Péssima experiência. O fnoe de ouvido quebrou no primeiro dia de uso. Decepcionado.,negativo
+73,O monitor é exatamente como descrito no anúncio. Faz o que promete.,negativo
+74,Odiei o teclado. Qualidade péssima e veio com defeito.,negativo
+75,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+76,O fone de ouvido é exatamente como descrito no anúncio. Faz o que promete.,positivo
+77,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,positivo
+78,Odiei o fone de ouvido. Qualidade decepcionante e veio com defeito.,negativo
+79,Odiei o monitor. Qualidade péssima e veio com defeito.,negativo
+80,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",positivo
+81,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+82,"A cor do celular é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+83,Ótimo custo-benefício. O fone de ouvido é ótima e muito útil.,negativo
+84,NÃO RECOMENDO. A ENTREGA ATRASOU MUITO E O CELULAR NÃO É COMO NA FOTO.,negativo
+85,Odiei o celular. Qualidade de baixa qualidade e veio com defeito.,positivo
+86,Simplesmente perfeito! O livro funciona muito bem e o design é lindo.,positivo
+87,O monitor é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+88,O fone de ouvido é decepcionante. O suporte ao cliente foi horrível.,negativo
+89,ESTOU MUITO DECEPCIONADO COM ESTA COMPRA. DINHEIRO JOGADO FORA.,negativo
+90,Odiei o notebook. Qualidade horrível e veio com defeito.,negativo
+91,Estou muito feliz com a compra. O celular é incrível e chegou super rápida.,positivo
+92,O livro é decepcionante. O suporte ao cliente foi horrível.,negativo
+93,Ótimo custo-benefício. O mouse é muito boa e umito útil.,positivo
+94,Amei o teclado! A qualidade é fantástica e a entrega foi pontual.,positivo
+95,AMEI O CELULAR! A QUALIDADE É INCRÍVEL E A ENTREGA FOI PONTUAL.,positivo
+96,O notebook é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+97,Péssima experiência. O cadeira gamer quebrou no primeiro dia de uso. Decepcionado.,positivo
+98,Ótimo custo-benefício. O teclado é mutio boa e muito útil.,positivo
+99,PÉSSIMA EXPERIÊNCIA. O MONITOR QUEBROU NO PRIMEIRO DIA DE USO. DECEPCIONADO.,negativo
+100,Péssima experiência. O teclado quebrou no primeiro dia de uso. Decepcionado.,negativo
+101,É um teclado ok pelo preço que paguei.,negativo
+102,O LIVRO É EXATAMENTE COMO DESCRITO NO ANNÚCIO. FAZ O QUE PROMETE.,negativo
+103,Péssima experiência. O monitor quebrou no primeiro dia de uso. Decepcionado.,negativo
+104,Ótimo custo-benefício. O celular é fantástica e muito útil.,positivo
+105,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+106,Não recomendo. A entrega foi lenta e o livro não é como na foto.,negativo
+107,Não recomendo. A entrega atrasou muito e o cadeira gamer não é como na foto.,negativo
+108,"A embalagem do monitor chegou um pouco amassada, mas o produto está intacto.",positivo
+109,Odiei o cadeira gamer. Qualidade horrível e veio com defeito.,negativo
+110,Não recomendo. A entrega atrasou muito e o monitor não é como na foto.,negativo
+111,Amei o fone de ouvido! A qualidade é nicrível e a entrega foi eficiente.,positivo
+112,O livro é péssima. O suporte ao clienet foi horrível.,negativo
+113,É um mouse ok pelo preço que paguei.,positivo
+114,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",positivo
+115,Não recomendo. A entrega foi lenta e o livro não é como na foto.,negativo
+116,Amei o mouse! A qualidade é incrível e a entrega foi no prazo.,positivo
+117,,negativo
+118,Simplesmente perfeito! O livro funciona muito bem e o design é lindo.,positivo
+119,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+120,"A cor do mouse é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+121,PÉSSIMA EXPERIÊNCIA. O MONITOR QUEBROU NO PRIMEIRO DIA DE USO. DECEPCIONADO.,negativo
+122,O fone de ouvido é péssima. O suporte ao cliente foi horrível.,negativo
+123,ESTOU MUITO ARREPENDIDO COM ESTA COMPRA. DINHEIRO JOGADO FORA.,negativo
+124,Péssima experiência. O fone de ouvido quebrou no primeiro dia de uso. Decepcionado.,negativo
+125,NÃO RECOMENDO. A ENTREGA DEMOROU UMA ETERINDADE E O NOTEBOOK NÃO É COMO NA FOTO.,negativo
+126,AMEI O CADEIRA GAMER! A QUALIDADE É ÓTIMA E A ENTREGA FOI EFICIENTE.,positivo
+127,Simplesmente perfeito! O teclado funciona muito bem e o design é lindo.,positivo
+128,,negativo
+129,"A cor do fone de ouvido é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+130,Ótimo custo-benefício. O monitor é fantástica e muito útil.,positivo
+131,Péssima experiência. O celular quebrou no primeiro dia de uso. Decepcionado.,negativo
+132,Recebi o mouse hoj.e Vou começar a usar para ver se é bom.,positivo
+133,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+134,Ótimo custo-benefício. O teclado é incrível e muito útil.,positivo
+135,Odiei o celular. Qualidade horrível e veio com defeito.,negativo
+136,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+137,Recebi o celular hoje. Vou começar a usar para ver se é bom.,positivo
+138,Ótimo custo-benefício. O fone de ouvido é ótima e muito útil.,positivo
+139,Amei o fone de ouvido! A qualidade é muito boa e a entrega foi pontual.,negativo
+140,Amei o mouse! A qualidade é excelente e a entrega foi eficiente.,positivo
+141,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",positivo
+142,Ótimo custo-benefício. O cadeira gamer é fantástica e muito útil.,positivo
+143,Não recomendo. A entrega atrasou muito e o fone de ouvido não é como na foto.,negativo
+144,"A cor do teclado é um pouco dfierente do que eu esperava, mas tudo bem.",positivo
+145,Não recomendo. A entrega atrasou muito e o monitor não é como na foto.,negativo
+146,"A embalagem do monitor chegou um pouco amassada, mas o produto está intacto.",positivo
+147,Ótimo custo-benefício. O monitor é ótima e muito útil.,positivo
+148,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,negativo
+149,"Excelente fone de ouvido, superou minhas expectativas. Recomendo a todos!",positivo
+150,"A embalagem do livro chegou um pouco amassada, mas o produto está intacto.",positivo
+151,O fone de ouvido é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+152,Amei o teclado! A qualidade é incrível e a entrega foi pontual.,positivo
+153,Ótimo custo-benefício. O livro é incrível e muito útil.,positivo
+154,É um teclado ok pelo preço que paguei.,positivo
+155,"Excelente teclado, superou minhas expectativas. Recomendo a todos!",negativo
+156,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",negativo
+157,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,positivo
+158,Simplesmente perfeito! O celular funciona muito bem e o design é lindo.,positivo
+159,O teclado é horrível. O suporte ao cliente foi horrível.,negativo
+160,Simplesmente perfeito! O teclado funciona muito bem e o design é lindo.,positivo
+161,O notebook é exatamente como descrito no anúncio. Faz o que promete.,positivo
+162,É um livro ok pelo preço que paguei.,negativo
+163,Recebi o notebook hoje. Vou começar a usar para ver se é bom.,negativo
+164,Simplesmente perfeito! O monitor funciona muito bem e o edsign é lindo.,positivo
+165,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+166,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+167,"Excelente mouse, superou minhas expectativas. Recomendo a todos!",positivo
+168,Estou muito feliz com a compra. O mouse é incrível e chegou super rápida.,positivo
+169,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+170,"Excelente monitor, superou minhas expetcativas. Recomendo a todos!",positivo
+171,Odiei o celular. Qualidade péssima e veio com edfeito.,negativo
+172,Não recomendo. A entrega foi lenta e o notebook não é como na foto.,negativo
+173,Amei o notebook! A qualidade é muito boa e a entrega foi super rápida.,positivo
+174,Péssima experiência. O teclado quebrou no primeiro dia de uso. Decepcionado.,negativo
+175,Não recomendo. A entrega atrasou muito e o notebook não é como na foto.,negativo
+176,Odiei o cadeira gamer. Qualidade péssima e veio com defeiot.,negativo
+177,Ótimo custo-benefício. O notebook é fnatástica e muito útil.,positivo
+178,Ótimo custo-benefício. O cadeira gamer é muito boa e muito útil.,positivo
+179,Odiei o notebook. Qualidade de baixa qualidade e veio com defeiot.,negativo
+180,"A embalagem do fone de ouvido chegou um pouco amassada, mas o produto está intacto.",positivo
+181,O teclado é exatamente como descrito no anúncio. Faz o que promete.,positivo
+182,"EXCELENTE MONITOR, SUPEROU MINHAS EXPECTATIVAS. RECOMENDO A TODOS!",positivo
+183,Odiei o celular. Qualidade decepcionante e veio com defeito.,negativo
+184,,positivo
+185,Não recomendo. A entrega demorou uma eternidade e o livro não é como na foto.,negativo
+186,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+187,O monitor é péssima. O suporte ao cliente foi horrível.,negativo
+188,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",positivo
+189,Estou muito impressionado com a compra. O celular é incrível e chegou super rápida.,positivo
+190,Simplesmente perfeito! O cadeira gamer funciona muito bem e o design é lindo.,negativo
+191,É um teclado ok pelo preço que paguei.,negativo
+192,Ótimo custo-benefício. O teclado é ótima e muito útil.,positivo
+193,O livro é horrível. O suporte ao cliente foi horrível.,negativo
+194,Péssima experiência. O cadeira gamer quebrou no primeiro dia de uso. Decepcionado.,negativo
+195,"A cor do fone de ouvido é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+196,"Excelente cadeira gamer, superou minhas expectativas. Recomendo a todos!",positivo
+197,Odiei o fone de ouvido. Qualidade decepcionante e veio com defeito.,negativo
+198,"A embalagem do fone de ouivdo chegou um pouco amassada, mas o produto está intacto.",positivo
+199,Péssima experiência. O mouse quebrou no primeiro dia de uso. Decepcionado.,positivo
+200,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+201,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+202,Estou muito feliz com a compra. O notebook é incrível e chegou super rápida.,positivo
+203,Ótimo custo-benefício. O teclado é incrível e muito útil.,positivo
+204,Estou muito impressionado com a compra. O celular é incrível e chegou pontual.,negativo
+205,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+206,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+207,Não recomendo. A entrega demorou uma eternidade e o monitor não é como na foto.,negativo
+208,Simplesmente perfeito! O livro funciona muito bem e o design é lindo.,positivo
+209,É um notebook ok pelo preço que paguei.,positivo
+210,Não recomendo. A entrega atrasou muito e o monitor não é como na foto.,negativo
+211,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",negativo
+212,Amei o mouse! A qualidade é fantástica e a entrega foi pontual.,positivo
+213,Não recomendo. A entrega demorou uma eternidade e o mouse não é como na foto.,negativo
+214,Ótimo custo-benefício. O notebook é excelente e muito útil.,positivo
+215,O livro é exatamente como descrito no anúncio. Faz o que promete.,positivo
+216,"A cor do monitor é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+217,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+218,Simplesmente perfeito! O livro funciona muito bem e o design é lind.o,positivo
+219,Ótimo custo-benefício. O notebook é excelente e muito útil.,negativo
+220,O mouse é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+221,Ótimo custo-benefício. O teclado é excelente e muito útil.,positivo
+222,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+223,É um fone de ouvido ok pelo preço que paguei.,positivo
+224,"A embalagem do fone de ouvido chegou um pouco amassada, mas o produto está intacto.",positivo
+225,Não recomendo. A entrega foi lenta e o cadeira gamer não é como na foto.,negativo
+226,Péssima experiência. O monitor quebrou no primeiro dia de uso. Decepcionado.,negativo
+227,Ótimo custo-benefício. O mouse é muito boa e muito útil.,positivo
+228,Amei o cadeira gamer! A qualidade é muito boa e a entrega foi super rápida.,positivo
+229,Não recomendo. A entrega demorou uma eternidade e o fone de ouvido não é como na foto.,negativo
+230,Péssima experiência. O monitor quebrou no primeiro dia de uso. Decepcionado.,negativo
+231,Amei o celular! A qualidade é excelente e a entrega foi super rápida.,positivo
+232,Simplesmente perfeito! O fone de ouvido funciona muito bem e o design é lindo.,positivo
+233,Não recomendo. A entrega demorou uma eternidade e o fone de ouvido não é como na foto.,positivo
+234,Péssima experiência. O monitor quebrou no primeiro dia de uso. Decepcionado.,negativo
+235,"Excelente monitor, superou minhas expectativas. Recomendo a todos!",positivo
+236,Estou muito feliz com a compra. O mouse é incrível e chegou super rápida.,positivo
+237,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+238,Estou muito feliz com a compra. O celular é incrível e chegou pontual.,positivo
+239,Péssima experiência. O notbeook quebrou no primeiro dia de uso. Decepcionado.,negativo
+240,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+241,Simplesmente perfeito! O teclado funciona mutio bem e o design é lindo.,positivo
+242,Ótimo custo-benefício. O livro é ótima e muito útil.,positivo
+243,Estou muito feliz com a compra. O monitor é incrível e chegou no prazo.,positivo
+244,Estou muito arrependido com esta compra. Dinheiro jogado fora.,positivo
+245,"A embalagem do mouse chegou um pouco amassada, mas o produto está intacto.",negativo
+246,Ótimo custo-benefício. O notebook é muito boa e muito útil.,positivo
+247,O livro é frágil. O suporte ao clinete foi horrível.,negativo
+248,O celular é exatamente como descrito no anúncio. Faz o que promete.,negativo
+249,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+250,O fone de ouvido é decepcionante. O suporte ao cliente foi horrível.,negativo
+251,Odiei o notebook. Qualidade de baixa qualidade e veio com defeito.,positivo
+252,Odiei o cadeira gamer. Qualidade péssima e veio com defeito.,negativo
+253,Simplesmente perfeito! O livro funciona muito bem e o design é lindo.,positivo
+254,Odiei o cadeira gamer. Qualidade péssima e veio com defeito.,negativo
+255,Péssima experiência. O celular quebrou no prmieiro dia de uso. Decepcionado.,negativo
+256,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+257,Estou muito satisfeito com a compra. O notebook é incrível e chegou eficiente.,positivo
+258,Estou muito frsutrado com esta compra. Dinheiro jogado fora.,negativo
+259,Amei o notebook! A qualidade é fantástica e a entrega foi pontual.,positivo
+260,Estou muito decepcionado com esta compra. Dinheiro jogado fora.,negativo
+261,Ótimo custo-benefício. O notebook é excelente e muito útil.,positivo
+262,Não recomendo. A entrega demorou uma eternidade e o notebook não é como na foto.,negativo
+263,Ótimo custo-benefício. O livro é ótima e muito útil.,positivo
+264,,positivo
+265,,negativo
+266,Ótimo custo-benefício. O mouse é incrível e muito útil.,positivo
+267,PÉSSIMA EXPERIÊNCIA. O MONITOR QUEBROU NO PRIMEIRO DIA DE USO. DECEPCIONADO.,negativo
+268,Ótmio custo-benefício. O mouse é incrível e muito útil.,positivo
+269,Não recomendo. A entrega atrasou muito e o monitor não é como na foto.,positivo
+270,Estou muito impressionado com a compra. O notebook é incrível e chegou eficiente.,positivo
+271,Ótimo custo-benefício. O cadeira gamer é fantástica e muito útil.,negativo
+272,,positivo
+273,Odiei o teclado. Qualidade de baixa qualidade e veio com defeito.,negativo
+274,O notebook é exatamente como descrito no anúncio. Faz o que promete.,positivo
+275,Amei o cadeira gamer! A qualidade é excelente e a entrega foi pontual.,negativo
+276,Amei o celular! A qualidade é incrível e a enrtega foi eficiente.,positivo
+277,"EXCELENTE MONITOR, SUPEROU MINHAS EXPECTATIVAS. RECOMENDO A TODOS!",positivo
+278,"A embalagem do fone de ouvido chegou um pouco amassada, mas o produto está intacto.",negativo
+279,Óitmo custo-benefício. O livro é incrível e muito útil.,positivo
+280,"A cor do fone de ouvido é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+281,Estou muito impressionado com a compra. O celular é incrível e chegou eficiente.,positivo
+282,O fone de ouvido é exatamente como descrito no anúncio. Faz o que promete.,positivo
+283,É um cadeira gamer ok pelo preço que paguei.,negativo
+284,Não recomendo. A entrega foi lenta e o celular não é como na foto.,negativo
+285,"Excelente monitor, superou minhas expectativas. Recomendo a todos!",positivo
+286,O celular é péssima. O suporte ao cliente foi horrível.,negativo
+287,É um monitor ok pelo perço que paguei.,negativo
+288,Amei o mouse! A qualidade é excelente e a entrega foi eficiente.,positivo
+289,Odiei o mouse. Qualidade horrível e veio com defeito.,negativo
+290,Amei o livro! A qualidade é excelente e a entrega foi no prazo.,positivo
+291,"A embalagem do fone de ouvido chegou um pouco amassada, mas o produto está intacto.",positivo
+292,Amei o livro! A qualidade é ótima e a entrega foi eficiente.,positivo
+293,Estou muito impressionado com a compra. O monitor é incrível e chegou pontual.,positivo
+294,É um celular ok pelo preço que paguei.,negativo
+295,Amei o cadeira gamer! A qualidade é ótima e a entrega foi pontual.,positivo
+296,Amei o monitor! A qualidade é excelente e a entrega foi pontual.,positivo
+297,"A embalagem do teclado chegou um pouco amassada, mas o produto está intacto.",positivo
+298,É um teclado ok pelo preço que paguei.,negativo
+299,"Excelente teclado, superou minhas expectativas. Recomendo a todos!",positivo
+300,Odiei o mouse. Qualidade horrível e veio com defeit.o,negativo
+301,"EXCELENTE MONITOR, SUPEROU MINHAS EXPECTATIVAS. RECOMENDO A TODOS!",positivo
+302,"Excelente teclado, superou minhas expectativas. eRcomendo a todos!",positivo
+303,Ótimo custo-benefício. O livro é muito boa e muito útil.,positivo
+304,Simplesmente perfeito! O livro funciona muito bem e o design é lindo.,positivo
+305,Não recomendo. A entrega foi lenta e o teclado não é como na foto.,negativo
+306,Não recomendo. A entrega atrasou muito e o mouse não é como na foto.,negativo
+307,Recebi o livro hoje. Vou começar a usar para ver se é bom.,negativo
+308,Amei o notebook! A qualidade é excelente e a entrega foi eficiente.,positivo
+309,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+310,Amei o teclado! A qualidade é muito boa e a entrega foi eficiente.,positivo
+311,O notebook é horrível. O suporte ao cliente foi horrível.,negativo
+312,Estou muito impressionado com a compra. O fone de ouvido é incrível e chegou no prazo.,positivo
+313,Não recomendo. A entrega demorou uma eternidade e o mouse não é como na foto.,negativo
+314,Amei o mouse! A qualidade é ótima e a entrega foi pontual.,positivo
+315,"Excelente cadeira gamer, superou minhas expectativas. Recomendo a todos!",positivo
+316,Simplesmente perfeito! O fone de ouvido funciona muito bem e o design é lindo.,positivo
+317,Estuo muito feliz com a compra. O teclado é incrível e chegou eficiente.,positivo
+318,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+319,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",positivo
+320,Estou muito feliz com a compra. O notebook é incrível e chegou no prazo.,positivo
+321,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,positivo
+322,Amei o cadeira gamer! A qualidade é incrível e a entrega foi super rápida.,positivo
+323,Estou muito impressionado com a compra. O notebook é incrível e chegou no prazo.,positivo
+324,Não recomendo. A entrega foi lenta e o monitor não é como na foto.,negativo
+325,O monitor é exatamente como descrito no anúncio. Faz o que promete.,positivo
+326,Não recomendo. A entrega demorou uma eternidade e o fone de ouvido não é como na foto.,negativo
+327,Amei o fone de ouvido! A qualidade é incrível e a entrega foi eficiente.,positivo
+328,Odiei o teclado. uQalidade péssima e veio com defeito.,negativo
+329,Recebi o cadeira gamer hoje. Vou começar a usar para ver se é bom.,positivo
+330,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+331,Não recomenod. A entrega foi lenta e o notebook não é como na foto.,negativo
+332,Simplesmente perfeito! O teclado funciona muito bem e o design é lindo.,positivo
+333,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+334,O cadeira gamer é frágil. O suporte ao cliente foi horrível.,positivo
+335,Estou muito impressionado com a compra. O ilvro é incrível e chegou no prazo.,positivo
+336,Ótimo custo-benefício. O cadeira gamer é ótima e muito útil.,positivo
+337,O fone de ouvido é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+338,"Excelente cadeira gamer, superou minhas expectativas. Recomendo a todos!",positivo
+339,Não recomendo. A entrega foi lenta e o teclado não é como na foot.,negativo
+340,Péssima experiência. O teclado quebrou no primeiro dia de uso. Decepcionado.,positivo
+341,Estou muito impressionado com a compra. O notebook é incrível e chegou pontual.,positivo
+342,Não recomendo. A entrega foi lenta e o monitor não é como na foto.,negativo
+343,Amei o mouse! A qualidade é fantástica e a entrega foi pontual.,positivo
+344,O livro é exatamente como descrito no anúncio. Faz o que promete.,negativo
+345,O teclado é decepcionante. O suporte ao cliente foi horrível.,negativo
+346,Ótimo custo-benefício. O celular é fantástica e muito útil.,positivo
+347,"Excelente fone de ouvido, superou minhas expectativas. Recomendo a todos!",positivo
+348,"A cor do cadeira gamer é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+349,Não recomendo. A entrega demorou uma eternidade e o teclado não é como na foto.,negativo
+350,Ótimo custo-benefício. O monitor é ótima e muito útil.,positivo
+351,"A cor do celular é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+352,NÃO RECOMENDO. A ENTREGA ATRASOU MUITO E O NOTEBOOK NÃO É COMO NA FOTO.,negativo
+353,"A cor do monitor é um pouco diferente do que eu esperava, mas tudo bem.",positivo
+354,,negativo
+355,"A cor do teclado é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+356,É um mouse ok pelo preço que paguei.,negativo
+357,O teclado é péssima. O suporte ao cliente foi horrível.,negativo
+358,Ótimo custo-benefício. O mouse é fantástica e muito útil.,positivo
+359,Não recomendo. A entrega demorou uma eterindade e o teclado não é como na foto.,negativo
+360,Não recomendo. A entrega atrasou muito e o teclado não é como na foto.,negativo
+361,Simplesmente perfeito! O celular funciona muito bem e o design é lindo.,positivo
+362,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+363,Ótimo custo-benefício. O livro é muito boa e muito útil.,positivo
+364,Péssima experiência. O fone de ouvido quebrou no primeiro dia de uso. Decepcionado.,negativo
+365,Estou muito satisfeito com a compra. O livro é incrível e chegou pontual.,positivo
+366,AMEI O TECLADO! A QUALIDADE É INCRÍVEL E A ENTREGA FOI NO PRAZ.O,positivo
+367,Amei o mouse! A qualidade é incrível e a entrega foi eficiente.,positivo
+368,Odiei o mouse. Qualidade frágil e veio com defeito.,negativo
+369,Ótimo custo-benefício. O teclado é excelente e muito útil.,positivo
+370,Péssima experiência. O celular quebrou no primeiro dia de uso. Decepcionado.,negativo
+371,Amei o livro! A qualidade é ótima e a entrega foi eficiente.,positivo
+372,Simplesmente perfeito! O notebook funciona muito bem e o design é lindo.,positivo
+373,"A embalagem do mouse chegou um pouco amassada, mas o produto setá intacto.",positivo
+374,ESTOU MUITO SATISFEITO COM A COMPRA. O CADEIRA GAMER É INCRÍVEL E CHEGOU EFICIENTE.,positivo
+375,O fone de ouvido é frágil. O suporte ao cliente foi horrível.,negativo
+376,Ótimo custo-benefício. O fone de ouvido é ótima e muito útil.,negativo
+377,O fone de ouvido é péssima. O suporte ao cliente foi horrível.,negativo
+378,Simplesmente perfeito! O celular funciona muito bem e o design é lindo.,positivo
+379,O celular é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+380,Amei o celular! A qualidade é excelente e a entrega foi pontual.,positivo
+381,Péssima experiência. O fone de ouvido quebrou no primeiro dia de uso. Decepcionado.,negativo
+382,Amei o cadeira gamer! A qualidade é fantástica e a entrega foi no prazo.,positivo
+383,Recebi o celular hoje. Vou começar a usar para ver se é bom.,negativo
+384,Recebi o livro hoje. Vou começar a usar para ver se é bom.,positivo
+385,"A embalagem do fone de ouvido chegou um pouco amassada, mas o produto está intacto.",positivo
+386,,negativo
+387,ESTOU MUITO SATISFEITO COM A COMPRA. O CADEIRA GAMER É INCRÍVEL E CHEGOU PONTUAL.,positivo
+388,Ótimo custo-benefício. O teclado é excelente e muito útil.,positivo
+389,Estou muito impressionado com a compra. O cadeira gamer é incrível e chegou pontual.,positivo
+390,Ótimo custo-benefício. O monitor é fantástica e muito útil.,positivo
+391,Estou muito decepcionado com esta compra. Dinheiro jogado fora.,negativo
+392,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",negativo
+393,Péssima experiência. O celular quebrou no primeiro dia de uso. Decepcionado.,negativo
+394,Péssima experiência. O livro quebrou no primeiro dia de uso. Decepcionado.,negativo
+395,Odiei o notebook. Qualidade de baixa qualidade e veio com defeito.,negativo
+396,Amei o celular! A qualidade é muito boa e a entrega foi eficiente.,positivo
+397,Ótimo custo-benefício. O mouse é fantástica e muito útil.,positivo
+398,Recebi o teclado hoje. Vou começar a usar para ver se é bom.,negativo
+399,Amei o monitor! A qualidade é muito boa e a entrega foi eficiente.,positivo
+400,Estou muito feliz com a compra. O notebook é incrível e chegou super rápida.,positivo
+401,Amei o fone de ouvido! A qualidade é fantástica e a entrega foi eficiente.,positivo
+402,Odiei o livro. Qualidade frágil e veio com defeito.,negativo
+403,O cadeira gamer é exatamente como descrito no anúncio. Faz o que promete.,negativo
+404,Péssima exepriência. O fone de ouvido quebrou no primeiro dia de uso. Decepcionado.,negativo
+405,Simplesmente perfeito! O cadeira gamer funciona muito bem e o design é lindo.,positivo
+406,É um teclado ok pelo preço que paguei.,positivo
+407,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+408,É um mouse ok pelo preço que paguei.,positivo
+409,Simplesmente perfeito! O fone de ouvido funciona miuto bem e o design é lindo.,positivo
+410,Amei o monitor! A qualidade é fantástica e a entrega foi eficiente.,negativo
+411,"Excelente celular, superou minhas expectativas. Recomendo a todos!",positivo
+412,"Excelente livro, superou minhas expectativas. Recomendo a todos!",negativo
+413,ESTOU MUITO IMPRESSIONADO COM A COMPRA. O MOUSE É INCRÍVEL E CHEGOU EFICIENTE.,positivo
+414,O teclado é péssima. O suporte ao cliente foi horrível.,negativo
+415,Não recomendo. A entrega foi lenat e o monitor não é como na foto.,negativo
+416,O omnitor é decepcionante. O suporte ao cliente foi horrível.,negativo
+417,Ótimo custo-benefício. O livro é excelente e muito útil.,positivo
+418,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+419,Estou muito satisfeito com a compra. O cadeira gamer é incrível e chegou super rápida.,positivo
+420,Ótimo custo-benefício. O celular é excelente e muito útil.,positivo
+421,Péssima experiência. O teclado quebrou no primeiro dia de uso. Decepcionado.,negativo
+422,Péssima experiência. O celular quebrou no primeiro dia de uso. Decepcionado.,negativo
+423,Odiei o cadeira gamer. Qualidade de baixa qualidade e veio com defeito.,negativo
+424,Amei o livro! A qualidade é muito boa e a entrega foi eficiente.,positivo
+425,Estou muito feliz com a compra. O celular é incrível e chegou super rápida.,positivo
+426,Estou muito feliz com a compra. O livro é incrível e chegou no prazo.,positivo
+427,O fone de ouvido é horrível. O suporte ao cliente foi horrível.,negativo
+428,ESTOU MUITO FRUSTRADO COM ESTA COMPRA. DINHEIRO JOGADO FORA.,negativo
+429,Simplesmente perfeito! O teclado funciona muito bem e o design é lindo.,positivo
+430,"A cor do fone de ouvido é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+431,Estou muito feliz com a compra. O celular é incrível e chegou super rápida.,positivo
+432,Não recomendo. A entrega foi lenat e o livro não é como na foto.,negativo
+433,Estou muito feliz com a compra. O mouse é incrível e chegou no prazo.,positivo
+434,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,negativo
+435,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,negativo
+436,Estou muito satisfeito com a compra. O cadeira gamer é incrível e chegou pontual.,positivo
+437,ODIEI O TECLADO. QUALIDADE DECEPCIONANTE E VEIO COM DFEEITO.,negativo
+438,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",positivo
+439,Não recomendo. A entrega foi lenta e o teclado não é como na foto.,negativo
+440,Ótimo custo-benefício. O fone de ouvido é fantástica e muito útil.,positivo
+441,Estou muito frustrado com esta compra. Dinheiro jogado for.a,negativo
+442,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",positivo
+443,Não recomendo. A entrega foi lenta e o notebook não é como na foto.,negativo
+444,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+445,Péssima experiência. O teclado quebrou no primeiro dia de uso. Decepcionado.,negativo
+446,"A cor do mouse é um pouco diferente do que eu esperava, mas tudo bem.",negativo
+447,O mouse é frágil. O suporte ao cliente foi horrível.,negativo
+448,Estou muito feliz com a compra. O fone de ouvido é incrível e chegou no prazo.,negativo
+449,Estou muito decepcionado com esta compra. Dinheiro jogaod fora.,negativo
+450,Ótimo custo-benefício. O teclado é incrível e muito útil.,positivo
+451,Odiei o livro. Qualidade decepcionante e veio com defeito.,negativo
+452,Estou muito satisfeito com a compra. O fone de ouvido é incrível e chegou super rápida.,positivo
+453,Estou muito feliz com a compra. O livro é incrível e chegou eficiente.,positivo
+454,Odiei o mouse. Qualidade frágil e veio com defeito.,negativo
+455,"A embalagem do teclado chegou um pouco amassada, mas o produto está intacto.",positivo
+456,"Excelente mouse, superou minhas expectativas. Recomendo a todos!",positivo
+457,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+458,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+459,Odiei o noetbook. Qualidade de baixa qualidade e veio com defeito.,negativo
+460,ÓTIMO CUSTO-BENEFÍCIO. O TECLADO É FANTÁSTICA E MUITO ÚTIL.,positivo
+461,"Excelente celular, superou minhas expectativas. Recomendo a todos!",positivo
+462,Amei o teclado! A qualidade é fantástica e a entrega foi pontual.,positivo
+463,Amei o fone de ouvido! A qualidade é incrível e a entrega foi no prazo.,positivo
+464,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+465,Odiei o mouse. Qualidade decepcionante e veio com defeito.,negativo
+466,"Excelente cadeira gamer, superou minhas expectativas. Recomendo a todos!",positivo
+467,Ótimo custo-benefício. O mouse é incrível e muito útil.,positivo
+468,Péssima experiência. O fone de ouvdio quebrou no primeiro dia de uso. Decepcionado.,negativo
+469,O monitor é exatamente como descrito no anúncio. Faz o que promete.,negativo
+470,Estou muito satisfeito com a compra. O mouse é incrível e chegou pontual.,positivo
+471,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,positivo
+472,"Excelente teclado, superou minhas expectativas. Recomendo a todos!",positivo
+473,Estou muito decepcionado com esta compra. Dinheiro jogado fora.,negativo
+474,O cadeira gamer é frágil. O suporte ao cliente foi horrível.,negativo
+475,Amei o notebook! A qualidade é excelente e a entrega foi eficiente.,negativo
+476,Ótimo custo-benefício. O cadeira gamer é muito boa e muito útil.,positivo
+477,"Excelente celular, superou minhas expectativas. Recomendo a todos!",positivo
+478,O cadeira gamer é exatamente como descrito no anúncio. Faz o que promete.,positivo
+479,"Excelente teclado, superou minhas expectativas. Recomendo a todos!",positivo
+480,Péssima experiência. O notebook quebrou no primeiro dia de uso. Decepcionado.,positivo
+481,Estou muito feliz com a compra. O monitor é incrível e chegou pontual.,positivo
+482,Simplesmente perfeito! O mouse funciona muito bem e o design é lindo.,positivo
+483,Odiei o teclado. Qualidade de baixa qualidade e vieo com defeito.,negativo
+484,"Excelente notebook, superou minhas expectativas. Recomendo a todos!",positivo
+485,Estou muito frustrado com esta compra. Dinheiro jogado fora.,negativo
+486,Simplesmente perfeito! O monitor funciona muito bem e o design é lindo.,negativo
+487,Recebi o notebook hoje. Vou começar a usar para ver se é bom.,positivo
+488,"EXCELENTE CELULAR, SUPEROU MINHAS EXPECTATIVAS. RECOMENDO A TODOS!",positivo
+489,O fone de ouvido é de baixa qualidade. O suporte ao cliente foi horrível.,negativo
+490,Estou muito feliz com a compra. O monitor é incrível e chegou no prazo.,negativo
+491,Recebi o monitor hoje. Vou cmoeçar a usar para ver se é bom.,positivo
+492,Amei o monitor! A qualidade é ótima e a entrega foi pontual.,positivo
+493,"A embalagem do celular chegou um pouco amassada, mas o produto está intacto.",negativo
+494,"Excelente fone de ouvido, superou minhas expectativas. Recomendo a todos!",negativo
+495,Estou muito satisfeito com a compra. O mouse é incrível e chegou eficiente.,positivo
+496,Odiei o teclado. Qualidade de baixa qualidade e veio com defeito.,negativo
+497,Estou muito impressionado com a compra. O monitor é incrível e chegou pontual.,positivo
+498,Não recomendo. A entrega demorou uma eternidade e o monitor não é como na foto.,negativo
+499,Estou muito arrependido com esta compra. Dinheiro jogado fora.,negativo
+500,Ótimo custo-benefício. O cadeira gamer é incrível e muito útil.,positivo
