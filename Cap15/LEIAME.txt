@@ -1,0 +1,26 @@
+# Mini-Projeto 9 - Deploy de App com Multi-Agentes de IA Para Planejamento de Viagens com CrewAI, Groq e Tavily
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name dsamp9 python=3.13
+
+# Ative o ambiente:
+
+conda activate dsamp9 (ou: source activate dsamp9)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute a app:
+
+streamlit run dsa_app.py 
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name dsamp9 --all
+
+
+

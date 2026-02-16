@@ -216,7 +216,3 @@ if btn:
 # Visite o link abaixo para conhecer os cursos oferecidos em nosso portal:
 # https://www.datascienceacademy.com.br/todoscursosdsa
 
-
-
-
-
