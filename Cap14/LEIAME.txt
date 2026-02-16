@@ -1,0 +1,41 @@
+# Mini-Projeto 8 - IA Generativa, LLM e RAG Para Assistente Jurídico em Python com LangChain
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name dsamp8 python=3.13
+
+# Ative o ambiente:
+
+conda activate dsamp8 (ou: source activate dsamp8)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute as duas versões da app, uma de cada vez (VERIFIQUE SE ALGUM ANTI-VIRUS OU FIREWALL IMPEDE O ACESSO NAS PORTAS ABAIXO):
+
+streamlit run dsa_app_sem_rag.py --server.port 8501
+
+streamlit run dsa_app_com_rag.py --server.port 8502
+
+# Exemplos de uso do assistente:
+
+- Qual a pena por calúnia e difamação?
+
+Perguntas que você pode fazer ao seu App RAG (Exemplos):
+
+- Qual é o objeto do contrato?
+- Quem é a CONTRATANTE?
+- Qual o valor total do contrato?
+- Quantos profissionais a CONTRATADA deve alocar?
+- Qual a multa em caso de rescisão imotivada pela CONTRATANTE?
+- Qual o prazo da obrigação de confidencialidade após o término do contrato? (Resposta: 5 anos)
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name dsamp8 --all
+
+
+
